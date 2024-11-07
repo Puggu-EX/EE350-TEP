@@ -64,8 +64,34 @@ Topic: TikTok - how does TikTok’s data mining to improve its algorithm impact 
 - Guillaume Chaslot (Data scientist | Founder of Algotransparency) 
   - On YT more than 70% of the views come from recommendation engine
     - On TT its 90+% 
-  
+  - Similar to what we see on YT we see on TT
+  - Users get *rabbitholed* into a content spiral (echo chamber)
+  - Despite being given a `Not Interested` button on videos, the algorithm seems to follow its own understanding of the user over what the user says
 
+- **Investigation steps:**
+  - kentucky_96 is a bot
+    - interest: `sadness`
+  - first `sadness` video found less than 3 min in (15th video)
+    - stops scrolling and watches this video twice
+  - things noted by TT (metadata)
+    - Audio
+    - Author of video
+    - Description
+    - Hashtags
+  - 23 videos later another `sadness` video (4 more minutes of watching)
+  - vid 57 repeated watch of heartbreak video
+  - vid 60 emotional pain video
+  - vid 80 (15 mins in) relationship video (scrolls away before finishing)
+  - Pause with tag #mentalhealth
+  - swipes quickly past videos about relationships
+  - lingers over video with tag #depression and #anxiety
 
+- **Analysis:**
+  - 278 videos (36 minutes of watchtime total)
+  - 93% of videos being recommeneded are depressesion related
+  - Using the `Not Interested` button wasn't enough to get a different feed
+    - Changing viewing habbits did
 
-
+**TT's algorithm results in users regressing into the farthest corner of their niche**  
+This could result a user who is exploring content of sadness through one video
+to eventually being pushed into a rabbithole of content related to depression
