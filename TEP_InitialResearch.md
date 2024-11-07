@@ -28,18 +28,18 @@ Topic: TikTok - how does TikTok’s data mining to improve its algorithm impact 
       - **System quality** is the application/algorithm and is measured in flexibility, integration, ease of use, and response time
   - **Organism:** The users' internal state of perception, feelings, and thinking composed of cognition and emotion 
     - **Cognition:** time distortion
-    - **Emotion:** enjoyment/concentration/boredom/etc
+    - **Emotion:** enjoyment/concentration/boredom/etc.
       - These were components of the online ***flow experience*** *(The inner feeling of enjoyment that encourages further participation)*
-  - **Response:** Depicted as access/avoidance attitude or behavior generated from external environment (S) or interally from the user (O)
+  - **Response:** Depicted as access/avoidance attitude or behavior generated from external environment (S) or internally from the user (O)
 
 **(According to the paper) What was data was explicitly said to be mined?**
   > - Login method
-  > - Netowrk-associated personal info
+  > - Network-associated personal info
   > - content of likes
 
 **Keywords/phrases**
 - Entertainment spiral
-- Closed Loop relationship: between the addiciton and algorithm optimization
+- Closed Loop relationship: between the addiction and algorithm optimization
 - **Flow Experience:** an inner feeling of enjoyment, concentration, time distortion
   - Also found in the context of online gaming
 - The (S) in SOR could refer to the layout or physical interface used (phone/tablet/desktop)
@@ -50,22 +50,22 @@ Topic: TikTok - how does TikTok’s data mining to improve its algorithm impact 
 - 100 Automated bots used
   - no gender
   - different predefined interests
-  - varrying DOB
-- Uses secret algorithm to gather data (obv)
+  - varying DOB
+- Uses secret algorithm to gather data (obvious)
 - Spoke to company execs
 - shares, likes, follows, what you watch
   - determined watch time as most important (only one needed)
-- app tracks watch time, skips, rewatch, etc
+- app tracks watch time, skips, rewatch, etc.
 - TikTok Experience
-  - suggested popular videos (wide varriety shown)
-  - based on initial responses/exploration it'll reccomend you similar videos
+  - suggested popular videos (wide variety shown)
+  - based on initial responses/exploration it'll recommend you similar videos
     - more niche with less views
 - Learned bots' interests in less than 2 hours (sometimes less than 40 minutes)
 - Guillaume Chaslot (Data scientist | Founder of Algotransparency) 
   - On YT more than 70% of the views come from recommendation engine
     - On TT its 90+% 
   - Similar to what we see on YT we see on TT
-  - Users get *rabbitholed* into a content spiral (echo chamber)
+  - Users get *rabbit-holed* into a content spiral (echo chamber)
   - Despite being given a `Not Interested` button on videos, the algorithm seems to follow its own understanding of the user over what the user says
 
 - **Investigation steps:**
@@ -82,16 +82,16 @@ Topic: TikTok - how does TikTok’s data mining to improve its algorithm impact 
   - vid 57 repeated watch of heartbreak video
   - vid 60 emotional pain video
   - vid 80 (15 mins in) relationship video (scrolls away before finishing)
-  - Pause with tag #mentalhealth
+  - Pause with tag `#mentalhealth`
   - swipes quickly past videos about relationships
   - lingers over video with tag #depression and #anxiety
 
 - **Analysis:**
-  - 278 videos (36 minutes of watchtime total)
-  - 93% of videos being recommeneded are depressesion related
+  - 278 videos (36 minutes of watch time total)
+  - 93% of videos being recommended are depression related
   - Using the `Not Interested` button wasn't enough to get a different feed
-    - Changing viewing habbits did
+    - Changing viewing habits did
 
 **TT's algorithm results in users regressing into the farthest corner of their niche**  
 This could result a user who is exploring content of sadness through one video
-to eventually being pushed into a rabbithole of content related to depression
+to eventually being pushed into a rabbit-hole of content related to depression
